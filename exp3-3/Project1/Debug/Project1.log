@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\HandSomeW\source\repos\Project1\Project1\源.cpp(273,25): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+C:\Users\HandSomeW\source\repos\Project1\Project1\源.cpp(273,25): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\HandSomeW\source\repos\Project1\Project1\源.cpp(273,25): message : 缺失的可变参数 1 为格式字符串“%s”所需
+  Project1.vcxproj -> C:\Users\HandSomeW\source\repos\Project1\Debug\Project1.exe

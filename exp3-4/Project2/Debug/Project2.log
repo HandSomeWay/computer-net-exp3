@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\Users\HandSomeW\source\repos\Project2\Project2\源.cpp(2,1): warning C4005: “HAVE_REMOTE”: 宏重定义
+C:\Users\HandSomeW\source\repos\Project2\Project2\源.cpp : message : 参见“HAVE_REMOTE”的前一个定义
+C:\Users\HandSomeW\source\repos\Project2\Project2\源.cpp(119,19): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+C:\Users\HandSomeW\source\repos\Project2\Project2\源.cpp(119,19): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\HandSomeW\source\repos\Project2\Project2\源.cpp(119,19): message : 缺失的可变参数 1 为格式字符串“%s”所需
+  Project2.vcxproj -> C:\Users\HandSomeW\source\repos\Project2\Debug\Project2.exe
